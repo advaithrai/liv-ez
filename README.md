@@ -41,6 +41,6 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/advaithrai/Parse-gram2/blob/master/parse-gram%20gif%20pt%202.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/advaithrai/liv-ez/blob/master/liv-ez%20part%201.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
