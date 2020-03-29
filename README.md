@@ -35,6 +35,8 @@
 - [ x] Users may join multiple groups
 - [ x] Users may leave groups or be removed from groups
 - [ x] Comments may be made of tasks
+- [x] Users may change password
+- [x ] hamburger slide for adding members, logging out, settings, etc.
 
 
 ## Video Walkthrough
